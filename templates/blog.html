@@ -1,0 +1,36 @@
+{% extends "with-title.html" %}
+<!--  -->
+{% block linkedData %}
+<meta name="twitter:card" content="summary" />
+{# <meta name="twitter:site:id" content="@SoHack" /> #}
+<meta property="og:url" content="{{ current_url }}" />
+<meta property="og:title" content="SoHack Events" />
+<meta
+  property="og:description"
+  content="SoHack Events"
+/>
+<meta
+  property="og:image"
+  content="{{ get_url(path='logo/SoHack-logo-black.jpeg') | safe }}"
+/>
+<meta property="og:image:alt" content="The SoHack logo" />
+
+{% endblock linkedData %}
+<!--  -->
+{% block content %}
+<div class="blog">
+  <!-- If you are using pagination, section.pages will be empty. You need to use the paginator object -->
+  {% for page in section.pages %}
+  <div class="blog-post">
+    <div class="blog-post-header">
+      <span>#</span>
+      <a href="{{ page.permalink | safe }}">{{ page.title }}</a>
+    </div>
+    <div class="blog-post-metadata">
+      <span>{{page.date}}</span>
+    </div>
+  </div>
+
+  {% endfor %}
+</div>
+{% endblock content %}

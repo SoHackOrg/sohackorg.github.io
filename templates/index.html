@@ -1,0 +1,64 @@
+{% extends "base.html" %}
+<!-- -->
+
+{% block linkedData %}
+<meta name="twitter:card" content="summary" />
+{# <meta name="twitter:site:id" content="@SoHack" /> #} {#
+<meta name="twitter:creator:id" content="@HampusFrank" /> #}
+<meta property="og:url" content="{{ current_url }}" />
+<meta
+  property="og:title"
+  content="SoHack: making the future decentralized"
+/>
+<meta
+  property="og:description"
+  content="Building a local-first database for the web"
+/>
+<meta
+  property="og:image"
+  content="{{ get_url(path='logo/SoHack-logo-black.jpeg') | safe }}"
+/>
+<meta property="og:image:alt" content="The SoHack logo" />
+
+<script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@id": "{{ get_url(path='') | safe }}",
+    "@type": "Organization",
+    "name": "SoHack",
+    "founder": "{{ get_url(path='/people#frank-hampus-weslien') | safe }}",
+    "member": [
+      {
+        "@type": "OrganizationRole",
+        "member": {
+          "@id": "{{ get_url(path='/people#frank-hampus-weslien') | safe }}"
+        },
+        "startDate": "2022-11-05",
+        "roleName": "Cofounder"
+      },
+      {
+        "@type": "OrganizationRole",
+        "member": {
+          "@id": "{{ get_url(path='/people#karl-oskar-rikås') | safe }}"
+        },
+        "startDate": "2022-11-21",
+        "roleName": "Cofounder"
+      }
+    ],
+    "url": "{{ get_url(path='') | safe }}",
+    "logo": "{{ get_url(path='logo/SoHackOrg.png') | safe }}",
+    "image": "{{ get_url(path='logo/SoHackOrg.png') | safe }}",
+    "keywords": ["non-profit", "programming", "hackathon"],
+    "description": "We promote recreational programming in south of Sweden"
+  }
+</script>
+{% endblock linkedData %} {% block content %}
+
+<img
+  class="logo"
+  width="240"
+  src="{{ get_url(path='logo/SoHackOrg.png') | safe }}"
+/>
+
+<div class="text-container">{{ section.content | safe }}</div>
+{% endblock content %}
