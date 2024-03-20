@@ -7,13 +7,13 @@ draft = false
 tags = ["event", "hackathon", "open data"]
 +++
 
-Hack Sweden is a one-time hackathon on the theme "public good software". We want to encourage people to build stuff that can help inhabitants of Sweden, especially if you take advantage of the numerous public APIs available from government agencies.
+Hack Sweden is a one-time hackathon on the theme "public good software". We want to encourage people to build stuff that can help inhabitants of Sweden. The primary focus will be taking advantage of open data and APIs made available by government agencies.
 
 The goals are:
-* Build something for public good and/or take advantage of public government APIs.
+* Build something for public good that takes advantage of public government APIs and open data.
 * Have fun and be social.
 
-Need inspiration on what to hack on? Don't fret! The [idea list](https://github.com/Hack-Sweden/idea-vault) comes to the rescue!
+Need inspiration on what to hack on? Don't fret! The [idea list](https://github.com/Hack-Sweden/idea-vault/tree/main/2024) comes to the rescue!
 
 Schedule
 * Saturday 27 April
@@ -23,7 +23,7 @@ Schedule
 * * 18:00 End for the day
 * Sunday 28 April
 * * 10:00 Hack time
-* * 13:00 Presentations and closing ceremony
+* * 14:00 Presentations and closing ceremony
 * * 16:00 End of hackathon
 
 More information coming soon...
