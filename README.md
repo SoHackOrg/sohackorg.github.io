@@ -33,3 +33,4 @@ simply navigate to [their [website](https://feathericons.com/) and download it!
 ### Sass
 
 You find the sass file at `sass/style.sass`.
+
