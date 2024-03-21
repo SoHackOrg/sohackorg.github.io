@@ -26,5 +26,6 @@ Schedule
 * * 14:00 Presentations and closing ceremony
 * * 16:00 End of hackathon
 
-More information coming soon...
+You are required to sign-up to attend this event at: https://foocafe.org/event/hack-sweden
 
+It is hosted in collaboration with FooCafé and Goto10 at: Slagthuset Carlsgatan 12a 21120 Malmö
