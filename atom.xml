@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
+    <title>SoHack</title>
+    <subtitle>We are building a local-first database with superpowers!</subtitle>
+    <link href="https://sohackorg.github.io/atom.xml" rel="self" type="application/atom+xml"/>
+    <link href="https://sohackorg.github.io"/>
+    <generator uri="https://www.getzola.org/">Zola</generator>
+    <updated>2024-04-27T00:00:00+00:00</updated>
+    <id>https://sohackorg.github.io/atom.xml</id>
+    <entry xml:lang="en">
+        <title>Hack Sweden</title>
+        <published>2024-04-27T00:00:00+00:00</published>
+        <updated>2024-04-27T00:00:00+00:00</updated>
+        <author>
+          <name>Unknown</name>
+        </author>
+        <link rel="alternate" href="https://sohackorg.github.io/events/hack-sweden/" type="text/html"/>
+        <id>https://sohackorg.github.io/events/hack-sweden/</id>
+        
+        <content type="html">&lt;p&gt;Hack Sweden is a one-time hackathon on the theme “public good software”. We want to encourage people to build stuff that can help inhabitants of Sweden. The primary focus will be taking advantage of open data and APIs made available by government agencies.&lt;&#x2F;p&gt;
+&lt;p&gt;The goals are:&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Build something for public good that takes advantage of public government APIs and open data.&lt;&#x2F;li&gt;
+&lt;li&gt;Have fun and be social.&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;Need inspiration on what to hack on? Don’t fret! The &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;github.com&#x2F;Hack-Sweden&#x2F;idea-vault&#x2F;tree&#x2F;main&#x2F;2024&quot;&gt;idea list&lt;&#x2F;a&gt; comes to the rescue!&lt;&#x2F;p&gt;
+&lt;p&gt;Schedule&lt;&#x2F;p&gt;
+&lt;ul&gt;
+&lt;li&gt;Saturday 27 April&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;09:00 Meet &amp;amp; Greet&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;10:00 Introductory presentation&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;10:30 Hack time&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;18:00 End for the day&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;Sunday 28 April&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;10:00 Hack time&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;14:00 Presentations and closing ceremony&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;li&gt;
+&lt;ul&gt;
+&lt;li&gt;16:00 End of hackathon&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;&#x2F;li&gt;
+&lt;&#x2F;ul&gt;
+&lt;p&gt;You are required to sign-up to attend this event at &lt;a rel=&quot;noopener&quot; target=&quot;_blank&quot; href=&quot;https:&#x2F;&#x2F;foocafe.org&#x2F;event&#x2F;hack-sweden&quot;&gt;FooCafé’s website&lt;&#x2F;a&gt;.&lt;&#x2F;p&gt;
+&lt;p&gt;It is hosted in collaboration with FooCafé and Goto10 at: &lt;em&gt;Slagthuset Carlsgatan 12a 21120 Malmö&lt;&#x2F;em&gt;.&lt;&#x2F;p&gt;
+</content>
+        
+    </entry>
+</feed>
